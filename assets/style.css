@@ -1,0 +1,23 @@
+/* Estilo da página index */
+
+font-20{
+    font-size: 30px;
+    text-align: center;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+#color-rgb{
+    color: rgb(69, 170, 55);
+}
+
+.container{
+    display: flex;
+    justify-content: left;     /* Eixo Horizontal*/
+    align-items: center;        /* Eixo Vertical */
+}
+
+
+/* Estilo da página lista*/
