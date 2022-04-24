@@ -10,7 +10,7 @@ font-20{
 }
 
 #color-rgb{
-    color: rgb(69, 170, 55);
+    color: rgb(49, 70, 52);
 }
 
 .container{
@@ -19,5 +19,14 @@ font-20{
     align-items: center;        /* Eixo Vertical */
 }
 
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+   }
+   .cat {
+    height:300px;
+    width: 300px;
+   }
 
 /* Estilo da página lista*/
